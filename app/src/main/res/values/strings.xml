@@ -10,4 +10,6 @@
 
     <string name="invalid_hex_message">Invalid hex code. Use 6 hex digits (0-9, A-F).</string>
     <string name="fixed_input_message">Fix the input above.</string>
+
+    <string name="back_button">Back</string>
 </resources>
